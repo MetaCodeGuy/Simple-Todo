@@ -1,5 +1,5 @@
 # Simple Todo
-For long Time I am looking for a simple but useful todo app , but i find nothing so i decided to create one for myself and that's  <b><i>simple Todo</i></b>
+For a long Time I look for a simple todo app but i found nothing so i decided to create one for myself and that is <b><i>simple Todo</i></b>
  
 ## Get started
 
@@ -14,4 +14,3 @@ For long Time I am looking for a simple but useful todo app , but i find nothing
    ```bash
     npx expo start
    ```
- 
